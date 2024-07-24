@@ -1,4 +1,4 @@
-# Arquitetura de um web comerce
+# 📐 Arquitetura de um web comerce
 Projeto feito na escola da nuven no curso de extenção AWS SAA    
 
 ## Projeto:
